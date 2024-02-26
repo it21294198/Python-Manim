@@ -6,3 +6,7 @@
 ```bash
 manim -pql scene.py CreateCircle 
 ```
+or
+```bash
+./run.sh
+```
